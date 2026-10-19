@@ -19,3 +19,6 @@ Desktop.ini
 # Logs / temp
 *.log
 *.tmp
+
+# Backup folders (local-only archive of previous slide versions)
+backups/
