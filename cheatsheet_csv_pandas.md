@@ -15,7 +15,7 @@
 | **JSON** | キーのついたデータ。**入れ子**（辞書の中のリストなど）を表せる |
 | **CSV** | カンマ区切りの**平らな表**。1マスに1つの値。Excelで開ける |
 
-### JSONを読み込む　[📷JSON読み込みの図解](https://raw.githubusercontent.com/kzw1717/I1008_pg2_items/main/pg2-4-slides/pg2-4-slide3.png)　[📷コンピュータの仕組み（ファイルの読み書き）](https://raw.githubusercontent.com/kzw1717/I1008_pg2_items/main/pg2-4-slides/pg2-4-Slide5.jpg)
+### JSONを読み込む　[📷JSON読み込みの図解](https://raw.githubusercontent.com/kzw1717/I1008_pg2_items/main/pg2-4-slides/pg2-4-slide3.png)
 ```python
 import json, csv
 with open("data.json", encoding="utf-8") as f:   # f＝ファイルオブジェクト
