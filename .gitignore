@@ -16,6 +16,10 @@ Desktop.ini
 *.swo
 *~
 
+# Obsidian (vault settings, plugins, workspace, trash)
+.obsidian/
+.trash/
+
 # Logs / temp
 *.log
 *.tmp
